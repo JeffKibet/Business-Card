@@ -11,6 +11,7 @@ body{
     align-items: center;
     background-color: rgb(45, 39, 39);
     color: yellow;
+    font-family: cursive;
     
     
 }
@@ -36,6 +37,9 @@ body{
     background-color:rgb(177, 177, 3);
     margin:auto;
     text-align: center;
+    font-style: italic;
+    font-weight: bolder;
+    line-height: 22px;
     
 }
 #jeff1{
@@ -49,3 +53,4 @@ body{
         text-align: center;
         font-size: 36;
     }
+   
